@@ -3,6 +3,9 @@
    width:400px;
    height: 600px; 
    background-color: yellow;
+   font-size: 100px;
+   text-align: center;
+
 }
 .platform{
     position:absolute;
